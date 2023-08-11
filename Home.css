@@ -14,6 +14,7 @@
 .u-section-1 .u-image-1 {
   min-height: 718px;
   background-image: url("images/HomeHeader.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -742,6 +743,7 @@
 .u-section-4 .u-image-1 {
   min-height: 805px;
   background-image: url("images/FullResume2.PNG");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-1 {
